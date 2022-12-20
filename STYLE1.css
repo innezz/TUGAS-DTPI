@@ -1,0 +1,21 @@
+body {
+  background-color: lightpink;
+  text-align: center;
+  font-family: garamond;
+  color: darkred;
+  font-size: 25px
+}
+li {
+  text-align: left;
+}
+p {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+h1 {
+  text-decoration-line: underline;
+  text-decoration-color: darkred;
+}
